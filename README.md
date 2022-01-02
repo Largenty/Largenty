@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-![Largenty's GitHub stats](https://github-readme-stats.vercel.app/api?username=largenty&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=largenty&layout=compact&theme=radical)
+![Largenty's GitHub stats](https://github-readme-stats.vercel.app/api?username=largenty&show_icons=true&theme=gruvbox)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=largenty&repo=portfolio&theme=radical)](https://github.com/largenty/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=largenty&repo=react-config-for-new-project&theme=radical)](https://github.com/largenty/react-config-for-new-project)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=largenty&layout=compact&theme=gruvbox)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=largenty&repo=portfolio&theme=gruvbox)](https://github.com/largenty/portfolio)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=largenty&repo=react-config-for-new-project&theme=gruvbox)](https://github.com/largenty/react-config-for-new-project)
