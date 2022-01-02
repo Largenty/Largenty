@@ -1,18 +1,18 @@
- ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ ## Heey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+---
+I'm **Ludovic Argenty**, a french developer since 2019. 
 
-<!--**Largenty/Largenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I did a professional retraining and now I like what I do every day 🤩 ! 
 
-Here are some ideas to get you started:
+I'm currently looking for a job so do not hesitate to contact me and if you feel like it, here is my [website](https://ludovic-argenty.com) 🤖
+ 
+🛠 My Development Toolbelt :
+ 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD2APNZeHXaSogF8b_YZyz5IAyXZR9rsWvRyB2rb5LBb1hOCz8qwmo-_a3NlcWjg34ko&usqp=CAU"  width="30px">  <img src="https://fr.seaicons.com/wp-content/uploads/2016/03/CSS3-icon-3.png"  width="30px"> <img src="https://img1.freepng.fr/20180815/ta/kisspng-sass-logo-cascading-style-sheets-scalable-vector-g-codzero-cms-blog-tool-publishing-platform-5b74aaa0a0f4b2.3928971215343725126593.jpg"  width="30px">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"  width="30px"> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png"  width="30px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="30px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... !-->
+📫 How to reach me: largenty.web@gmail.com
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
