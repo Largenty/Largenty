@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![Largenty's GitHub stats](https://github-readme-stats.vercel.app/api?username=largenty&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=largenty&layout=compact&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=largenty&repo=portfolio&theme=radical)](https://github.com/largenty/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=largenty&repo=react-config-for-new-project&theme=radical)](https://github.com/largenty/react-config-for-new-project)
